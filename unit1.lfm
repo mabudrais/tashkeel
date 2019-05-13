@@ -1,0 +1,68 @@
+object Form1: TForm1
+  Left = 249
+  Height = 351
+  Top = 250
+  Width = 867
+  BiDiMode = bdRightToLeft
+  Caption = 'Form1'
+  ClientHeight = 351
+  ClientWidth = 867
+  OnCreate = FormCreate
+  ParentBiDiMode = False
+  LCLVersion = '2.0.2.0'
+  object Memo1: TMemo
+    AnchorSideLeft.Control = Owner
+    AnchorSideTop.Control = Edit1
+    AnchorSideTop.Side = asrBottom
+    AnchorSideRight.Control = Owner
+    AnchorSideRight.Side = asrBottom
+    AnchorSideBottom.Control = Owner
+    AnchorSideBottom.Side = asrBottom
+    Left = 0
+    Height = 325
+    Top = 26
+    Width = 867
+    Anchors = [akTop, akLeft, akRight, akBottom]
+    BorderSpacing.Top = 5
+    OnChange = Memo1Change
+    OnKeyDown = Memo1KeyDown
+    TabOrder = 0
+  end
+  object SpinEdit1: TSpinEdit
+    AnchorSideTop.Control = Owner
+    AnchorSideRight.Control = CheckBox1
+    Left = 730
+    Height = 21
+    Top = 0
+    Width = 50
+    Anchors = [akTop, akRight]
+    BorderSpacing.Right = 4
+    MinValue = 1
+    OnChange = SpinEdit1Change
+    TabOrder = 1
+    Value = 1
+  end
+  object CheckBox1: TCheckBox
+    AnchorSideTop.Control = Owner
+    AnchorSideRight.Control = Owner
+    AnchorSideRight.Side = asrBottom
+    Left = 784
+    Height = 17
+    Top = 0
+    Width = 83
+    Anchors = [akTop, akRight]
+    Caption = 'وضع التشكيل'
+    OnChange = CheckBox1Change
+    TabOrder = 2
+  end
+  object Edit1: TEdit
+    AnchorSideLeft.Control = Owner
+    AnchorSideTop.Control = Owner
+    Left = 0
+    Height = 21
+    Top = 0
+    Width = 80
+    TabOrder = 3
+    Text = 'بَبُبِبْبّبًبٍبٌ'
+  end
+end
