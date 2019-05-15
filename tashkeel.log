@@ -1,6 +1,156 @@
-STATUS INFO : @ 10:08:25 MSG : Starting Application IN : Initialization
+STATUS INFO : @ 17:01:34 MSG : Starting Application IN : Initialization
 
-STATUS INFO : @ 10:08:25 MSG : FormCreate IN : 
+STATUS INFO : @ 17:01:34 MSG : FormCreate IN : 
 
-STATUS INFO : @ 10:08:30 MSG : Terminating Application IN : Finalization
+STATUS INFO : @ 17:01:37 MSG : Memo1KeyDown 18 IN : 
+
+STATUS INFO : @ 17:01:37 MSG : Memo1KeyDown 16 IN : 
+
+STATUS INFO : @ 17:01:38 MSG : Memo1KeyDown 76 IN : 
+
+STATUS INFO : @ 17:01:38 MSG : Memo1Change IN : 
+
+STATUS INFO : @ 17:01:38 MSG : Memo1KeyDown 75 IN : 
+
+STATUS INFO : @ 17:01:38 MSG : Memo1Change IN : 
+
+STATUS INFO : @ 17:01:38 MSG : Memo1KeyDown 76 IN : 
+
+STATUS INFO : @ 17:01:38 MSG : Memo1Change IN : 
+
+STATUS INFO : @ 17:01:38 MSG : Memo1KeyDown 75 IN : 
+
+STATUS INFO : @ 17:01:38 MSG : Memo1Change IN : 
+
+STATUS INFO : @ 17:01:38 MSG : Memo1KeyDown 75 IN : 
+
+STATUS INFO : @ 17:01:38 MSG : Memo1Change IN : 
+
+STATUS INFO : @ 17:01:39 MSG : Memo1KeyDown 74 IN : 
+
+STATUS INFO : @ 17:01:39 MSG : Memo1Change IN : 
+
+STATUS INFO : @ 17:01:39 MSG : Memo1KeyDown 73 IN : 
+
+STATUS INFO : @ 17:01:39 MSG : Memo1Change IN : 
+
+STATUS INFO : @ 17:01:39 MSG : Memo1KeyDown 75 IN : 
+
+STATUS INFO : @ 17:01:39 MSG : Memo1Change IN : 
+
+STATUS INFO : @ 17:01:39 MSG : Memo1KeyDown 72 IN : 
+
+STATUS INFO : @ 17:01:39 MSG : Memo1Change IN : 
+
+STATUS INFO : @ 17:01:39 MSG : Memo1KeyDown 74 IN : 
+
+STATUS INFO : @ 17:01:39 MSG : Memo1Change IN : 
+
+STATUS INFO : @ 17:01:39 MSG : Memo1KeyDown 72 IN : 
+
+STATUS INFO : @ 17:01:39 MSG : Memo1Change IN : 
+
+STATUS INFO : @ 17:01:39 MSG : Memo1KeyDown 74 IN : 
+
+STATUS INFO : @ 17:01:39 MSG : Memo1Change IN : 
+
+STATUS INFO : @ 17:01:39 MSG : Memo1KeyDown 72 IN : 
+
+STATUS INFO : @ 17:01:39 MSG : Memo1Change IN : 
+
+STATUS INFO : @ 17:01:41 MSG : SpinEdit1Change 2 IN : 
+
+STATUS INFO : @ 17:01:43 MSG : SpinEdit1Change 3 IN : 
+
+STATUS INFO : @ 17:01:43 MSG : SpinEdit1Change 4 IN : 
+
+STATUS INFO : @ 17:01:43 MSG : SpinEdit1Change 5 IN : 
+
+STATUS INFO : @ 17:01:44 MSG : SpinEdit1Change 6 IN : 
+
+STATUS INFO : @ 17:01:44 MSG : SpinEdit1Change 7 IN : 
+
+STATUS INFO : @ 17:01:44 MSG : SpinEdit1Change 8 IN : 
+
+STATUS INFO : @ 17:01:44 MSG : SpinEdit1Change 9 IN : 
+
+STATUS INFO : @ 17:01:45 MSG : SpinEdit1Change 10 IN : 
+
+STATUS INFO : @ 17:01:45 MSG : SpinEdit1Change 11 IN : 
+
+STATUS INFO : @ 17:01:45 MSG : SpinEdit1Change 12 IN : 
+
+STATUS INFO : @ 17:01:45 MSG : SpinEdit1Change 13 IN : 
+
+STATUS INFO : @ 17:01:45 MSG : SpinEdit1Change 14 IN : 
+
+STATUS INFO : @ 17:01:45 MSG : SpinEdit1Change 15 IN : 
+
+STATUS INFO : @ 17:01:45 MSG : SpinEdit1Change 16 IN : 
+
+STATUS INFO : @ 17:01:45 MSG : SpinEdit1Change 17 IN : 
+
+STATUS INFO : @ 17:01:45 MSG : SpinEdit1Change 18 IN : 
+
+STATUS INFO : @ 17:01:46 MSG : SpinEdit1Change 19 IN : 
+
+STATUS INFO : @ 17:01:46 MSG : SpinEdit1Change 20 IN : 
+
+STATUS INFO : @ 17:01:46 MSG : SpinEdit1Change 21 IN : 
+
+STATUS INFO : @ 17:01:46 MSG : SpinEdit1Change 26 IN : 
+
+STATUS INFO : @ 17:01:46 MSG : SpinEdit1Change 31 IN : 
+
+STATUS INFO : @ 17:01:46 MSG : SpinEdit1Change 36 IN : 
+
+STATUS INFO : @ 17:01:46 MSG : SpinEdit1Change 41 IN : 
+
+STATUS INFO : @ 17:01:46 MSG : SpinEdit1Change 46 IN : 
+
+STATUS INFO : @ 17:02:09 MSG : SpinEdit1Change 45 IN : 
+
+STATUS INFO : @ 17:02:09 MSG : SpinEdit1Change 44 IN : 
+
+STATUS INFO : @ 17:02:09 MSG : SpinEdit1Change 43 IN : 
+
+STATUS INFO : @ 17:02:10 MSG : SpinEdit1Change 44 IN : 
+
+STATUS INFO : @ 17:02:10 MSG : SpinEdit1Change 45 IN : 
+
+STATUS INFO : @ 17:02:11 MSG : SpinEdit1Change 46 IN : 
+
+STATUS INFO : @ 17:02:11 MSG : SpinEdit1Change 47 IN : 
+
+STATUS INFO : @ 17:02:11 MSG : SpinEdit1Change 48 IN : 
+
+STATUS INFO : @ 17:02:11 MSG : SpinEdit1Change 49 IN : 
+
+STATUS INFO : @ 17:02:12 MSG : SpinEdit1Change 50 IN : 
+
+STATUS INFO : @ 17:02:12 MSG : SpinEdit1Change 51 IN : 
+
+STATUS INFO : @ 17:02:12 MSG : SpinEdit1Change 52 IN : 
+
+STATUS INFO : @ 17:02:13 MSG : SpinEdit1Change 53 IN : 
+
+STATUS INFO : @ 17:02:14 MSG : SpinEdit1Change 52 IN : 
+
+STATUS INFO : @ 17:02:14 MSG : SpinEdit1Change 51 IN : 
+
+STATUS INFO : @ 17:02:14 MSG : SpinEdit1Change 50 IN : 
+
+STATUS INFO : @ 17:02:14 MSG : SpinEdit1Change 49 IN : 
+
+STATUS INFO : @ 17:02:14 MSG : SpinEdit1Change 48 IN : 
+
+STATUS INFO : @ 17:02:15 MSG : SpinEdit1Change 47 IN : 
+
+STATUS INFO : @ 17:02:15 MSG : SpinEdit1Change 46 IN : 
+
+STATUS INFO : @ 17:02:15 MSG : SpinEdit1Change 45 IN : 
+
+STATUS INFO : @ 17:02:15 MSG : SpinEdit1Change 44 IN : 
+
+STATUS INFO : @ 17:02:18 MSG : Terminating Application IN : Finalization
 

@@ -7,8 +7,11 @@ object Form1: TForm1
   Caption = 'Form1'
   ClientHeight = 351
   ClientWidth = 867
+  OnCloseQuery = FormCloseQuery
   OnCreate = FormCreate
+  OnShow = FormShow
   ParentBiDiMode = False
+  SessionProperties = 'Height;Left;Top;Width;Memo1.Font'
   LCLVersion = '2.0.2.0'
   object Memo1: TMemo
     AnchorSideLeft.Control = Owner
@@ -52,7 +55,10 @@ object Form1: TForm1
     Width = 83
     Anchors = [akTop, akRight]
     Caption = 'وضع التشكيل'
+    Checked = True
+    Enabled = False
     OnChange = CheckBox1Change
+    State = cbChecked
     TabOrder = 2
   end
   object Edit1: TEdit
@@ -62,7 +68,33 @@ object Form1: TForm1
     Height = 21
     Top = 0
     Width = 80
+    Enabled = False
     TabOrder = 3
     Text = 'بَبُبِبْبّبًبٍبٌ'
+  end
+  object ChangeFontButton: TButton
+    AnchorSideTop.Control = Owner
+    AnchorSideRight.Control = SpinEdit1
+    Left = 650
+    Height = 25
+    Top = 0
+    Width = 75
+    Anchors = [akTop, akRight]
+    BorderSpacing.Right = 5
+    Caption = 'تغيير الخط'
+    OnClick = ChangeFontButtonClick
+    TabOrder = 4
+  end
+  object FontDialog1: TFontDialog
+    MinFontSize = 0
+    MaxFontSize = 0
+    left = 470
+    top = 143
+  end
+  object IniPropStorage1: TIniPropStorage
+    StoredValues = <>
+    IniFileName = 'lastdimen.ini'
+    left = 266
+    top = 99
   end
 end
